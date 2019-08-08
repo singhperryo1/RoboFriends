@@ -1,8 +1,8 @@
 {
-  "name": "robotfriends",
+  "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://singhperryo1.github.io/RoboFriends/",
+  "homepage": "https://singhperryo1.github.io/robofriends/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
